@@ -2,6 +2,7 @@
  Created following the freeCodeCamp.org Python Game Tutorial: Pong video. 
 
  Link to tutorial: https://www.youtube.com/watch?v=C6jJg9Zan7w
+ Link to my demo:  https://youtu.be/Ix37MCOR3fA
 
 !!IMPORTANT!!
  Need python 3 installed to work
